@@ -1,8 +1,8 @@
 ## vim-mmixal-fmt
 
-### Prerequite
+### Prerequisite
 
-Intall [`mmixal-fmt`](https://github.com/tangl163/mmixal-fmt)
+Before this plugin could work properly you must install [`mmixal-fmt`](https://github.com/tangl163/mmixal-fmt) first.
 
 ### Installation
 
